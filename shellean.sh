@@ -42,8 +42,8 @@ help() {
 version() {
   echo -e '\e[5m'
   echo '--------------------------------------------------------------------------'
-  echo '-- Written by NitrixXero at (2023), Version: (1.0)                      --'
-  echo '-- Contact me on Telegram: https://t.me/nitrixxero                      --'
+  echo '-- Written by ShRP69 at (2023), Version: (1.0)                          --'
+  echo '-- Contact me on Telegram: https://t.me/nachash96                       --'
   echo '--------------------------------------------------------------------------'
 }
 

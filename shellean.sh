@@ -20,7 +20,7 @@ tput_bold() {
 
 license() {
   echo '+-----------------------------------------------------------------------------------+'
-  echo '|  shellean version 1.0, Copyright (C) 2023 Louis Phoenix     (ShRP69)              |'
+  echo '|  shellean version 1.0, Copyright (C) 2023 Louis Phoenix (ShRP69)                  |'
   echo '|  shellean comes with ABSOLUTELY NO WARRANTY; for details                          |'
   echo '|  type show w. This is free software, and you are welcome                          |'
   echo '|  to redistribute it under certain conditions; type show c                         |'

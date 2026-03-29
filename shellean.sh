@@ -1,4 +1,4 @@
-# Copyright 2023 Elijah Gordon (NitrixXero) <nitrixxero@gmail.com>
+# Copyright 2023 Louis Phoenix (ShRP69) <shrp69@proton.me>
 
 # This program is free software; you can redistribute it and/or
 # modify it under the terms of the GNU General Public License
